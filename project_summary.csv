@@ -1,0 +1,11 @@
+Metric,Value
+Total_Records,230656
+Fatal_Cases,205
+Injured_Cases,230451
+Class_Imbalance_Ratio,224.47
+Model_Used,Gradient Boosting
+ROC_AUC,0.8975
+Recall_Default,0.322
+Recall_Optimized,0.78
+Precision,0.7674
+Deployment_Threshold,0.3

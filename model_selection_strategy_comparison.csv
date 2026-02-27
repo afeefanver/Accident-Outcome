@@ -1,0 +1,12 @@
+Metric,Strategy A (ROC-AUC),Strategy B (Recall)
+Model,Gradient Boosting,Logistic Regression
+Optimization Goal,ROC-AUC,Recall
+Accuracy,0.9966,0.7777
+Precision,0.7674,0.0154
+Recall,0.3220,0.7805
+F1-Score,0.4536,0.0303
+ROC-AUC,0.8975,0.8509
+Fatal Caught,66/205,160/205
+Fatal Missed,139/205,45/205
+False Alarms,20,10209
+Use Case,Research/Analysis,Deployment 
